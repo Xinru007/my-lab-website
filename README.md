@@ -28,3 +28,4 @@ Selected publications:
 
 •	Wang, L.L*., Wang, X.R*., Wei, X.M., Huang, H., Wu, J.X., Chen, X.X., Liu, S.S. and Wang, X.W. 2016. The autophagy pathway participates in resistance to tomato yellow leaf curl virus infection in whiteflies. Autophagy, 12(9), pp.1560-1574. (* equal contribution, Cover Paper)
 
+WE are looking for a Laboratory Technician/Associate and Ph.D. students in Cell Biology and Tick Biology!
