@@ -1,5 +1,7 @@
 # Wang's Lab
 
+WE are looking for a Laboratory Technician/Associate and Ph.D. students in Cell Biology and Tick Biology!
+
 Our research: investigates the interactions between vectors (ticks of medical/veterinary importance to the US) and pathogens to understand better ticks' biology and the pathogenesis of tick-borne bacteria. We aim to gain insight into the intricate and complex interactions between ticks, microbes, and hosts at multiple scales, from the molecular to the regional level. Our goal is to develop effective vector control strategies to curb the spread of tick-borne diseases by combining approaches that target both the vectors and pathogens they transmit.
 
 Selected publications:
@@ -28,4 +30,3 @@ Selected publications:
 
 •	Wang, L.L*., Wang, X.R*., Wei, X.M., Huang, H., Wu, J.X., Chen, X.X., Liu, S.S. and Wang, X.W. 2016. The autophagy pathway participates in resistance to tomato yellow leaf curl virus infection in whiteflies. Autophagy, 12(9), pp.1560-1574. (* equal contribution, Cover Paper)
 
-WE are looking for a Laboratory Technician/Associate and Ph.D. students in Cell Biology and Tick Biology!
